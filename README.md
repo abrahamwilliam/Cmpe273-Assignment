@@ -9,7 +9,7 @@
 ###     5.Single chat messages are stored in list with the time of its entry for feature analytics
 #
 #
-## List of features for Group user |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+## List of features for Group user 
 ###     1.User can chat to the existing group-Group 1 and group2
 ###     2.New group can be created with its own name and list of users.
 ###     3.Group messages are stored in list with the time of its entry.
